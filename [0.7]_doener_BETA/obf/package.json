@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "archiver": "^6.0.2",
+    "js-confuser": "^1.7.1"
+  }
+}
